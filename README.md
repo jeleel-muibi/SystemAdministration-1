@@ -10,9 +10,7 @@ This repository demonstrates a hybrid Windows infrastructure lab combining on-pr
 
 The environment explores enterprise administration patterns including hybrid identity, automated device provisioning, infrastructure governance, and secure network architecture.
 
----
-
-## Video Demonstration
+## Demo
 
 > :arrow_forward: **Watch the video on YouTube**
 
@@ -21,8 +19,6 @@ The environment explores enterprise administration patterns including hybrid ide
 Video link: [https://youtu.be/2B4VF5nqhFs?t=2](https://youtu.be/2B4VF5nqhFs?t=2)
 
 Full demonstration playlist: [Project Demonstration Playlist](https://www.youtube.com/playlist?list=PLe-oTj2F_EnfoljrqXfTc3GbT5vtHFdWq)
-
----
 
 ## Architecture Overview
 
@@ -36,8 +32,6 @@ Key components include:
 • Configuration management using System Center Configuration Manager (SCCM)  
 • Multi-vendor networking with Cisco, Arista, and pfSense  
 
----
-
 ## Core Capabilities
 
 ### On-Premise Infrastructure
@@ -47,23 +41,17 @@ Key components include:
 • Server roles including DHCP, DNS, IIS, file services and print services  
 • Failover clustering and load balancing for high availability  
 
----
-
 ### Device Lifecycle Management
 
 • Automated device provisioning using Windows Autopilot  
 • Centralised device management using Microsoft Intune  
 • Application deployment and compliance enforcement  
 
----
-
 ### Identity and Access Management
 
 • Hybrid identity architecture using Active Directory and Entra ID  
 • Single Sign-On (SSO) integration  
 • Role-based access control (RBAC)
-
----
 
 ### Networking and Security
 
@@ -73,8 +61,6 @@ Key components include:
 • Site-to-site connectivity using IPsec tunnels  
 • Remote access using OpenVPN  
 
----
-
 ## Lab Environment
 
 The infrastructure is deployed in a virtualised lab environment:
@@ -82,8 +68,6 @@ The infrastructure is deployed in a virtualised lab environment:
 • Network simulations using **EVE-NG**  
 • Infrastructure virtualised on **Proxmox**  
 • Multi-site architecture with simulated failover scenarios  
-
----
 
 ## Automation and Monitoring
 
@@ -93,8 +77,6 @@ Automation and operational visibility include:
 • Configuration automation using Ansible  
 • Monitoring using Zabbix  
 • Network analysis using Wireshark  
-
----
 
 ## Related Platform
 
