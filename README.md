@@ -12,6 +12,14 @@ The environment explores enterprise administration patterns including hybrid ide
 
 ---
 
+## Video Demonstration
+
+[<img src="https://img.youtube.com/vi/2B4VF5nqhFs/maxresdefault.jpg" alt="Hybrid identity lab video demonstration" width="720">](https://youtu.be/2B4VF5nqhFs?t=2)
+
+Full demonstration playlist: [Project Demonstration Playlist](https://www.youtube.com/playlist?list=PLe-oTj2F_EnfoljrqXfTc3GbT5vtHFdWq)
+
+---
+
 ## Architecture Overview
 
 The lab environment integrates on-premise infrastructure with cloud management tools.
@@ -81,14 +89,6 @@ Automation and operational visibility include:
 • Configuration automation using Ansible  
 • Monitoring using Zabbix  
 • Network analysis using Wireshark  
-
----
-
-## Video Demonstration
-
-A walkthrough of the environment and architecture is available here:
-
-[Project Demonstration Playlist](https://www.youtube.com/playlist?list=PLe-oTj2F_EnfoljrqXfTc3GbT5vtHFdWq)
 
 ---
 
