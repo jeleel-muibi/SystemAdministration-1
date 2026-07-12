@@ -14,7 +14,11 @@ The environment explores enterprise administration patterns including hybrid ide
 
 ## Video Demonstration
 
+> :arrow_forward: **Watch the video on YouTube**
+
 [<img src="https://img.youtube.com/vi/2B4VF5nqhFs/maxresdefault.jpg" alt="Hybrid identity lab video demonstration" width="720">](https://youtu.be/2B4VF5nqhFs?t=2)
+
+Video link: [https://youtu.be/2B4VF5nqhFs?t=2](https://youtu.be/2B4VF5nqhFs?t=2)
 
 Full demonstration playlist: [Project Demonstration Playlist](https://www.youtube.com/playlist?list=PLe-oTj2F_EnfoljrqXfTc3GbT5vtHFdWq)
 
