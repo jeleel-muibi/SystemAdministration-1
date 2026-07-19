@@ -67,6 +67,8 @@ The infrastructure is deployed in a virtualised lab environment:
 • Infrastructure virtualised on **Proxmox**  
 • Multi-site architecture with simulated failover scenarios  
 
+The [EVE-NG lab export](examples/eve-ng/hybrid-identity-enterprise-lab.zip) provides the reusable topology and device configurations. Device images are not included.
+
 ## Automation and Monitoring
 
 Automation and operational visibility include:
