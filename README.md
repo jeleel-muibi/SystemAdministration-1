@@ -12,7 +12,7 @@ The environment covers hybrid identity, automated provisioning, endpoint managem
 
 > :arrow_forward: **Watch the video on YouTube**
 
-[<img src="https://img.youtube.com/vi/2B4VF5nqhFs/maxresdefault.jpg" alt="Hybrid identity lab video demonstration" width="720">](https://youtu.be/2B4VF5nqhFs?t=2)
+[<img src="examples/eve-ng/hybrid-network-cybersecurity-teaching-lab.png" alt="Hybrid identity, network and cybersecurity teaching lab" width="960">](https://youtu.be/2B4VF5nqhFs?t=2)
 
 Video link: [https://youtu.be/2B4VF5nqhFs?t=2](https://youtu.be/2B4VF5nqhFs?t=2)
 
