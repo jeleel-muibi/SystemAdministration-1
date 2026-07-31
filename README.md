@@ -1,6 +1,6 @@
 > This repository explores hybrid infrastructure and automation concepts that later informed [HybridOps](https://hybridops.tech/why).
 
-# Windows Server and Network Administration with Automation
+# Hybrid Identity, Network and Cybersecurity Lab
 
 Built with: Windows Server • Active Directory • Entra ID • Intune • SCCM • Proxmox • EVE-NG
 
@@ -17,6 +17,14 @@ The environment covers hybrid identity, automated provisioning, endpoint managem
 Video link: [https://youtu.be/2B4VF5nqhFs?t=2](https://youtu.be/2B4VF5nqhFs?t=2)
 
 Full demonstration playlist: [Project Demonstration Playlist](https://www.youtube.com/playlist?list=PLe-oTj2F_EnfoljrqXfTc3GbT5vtHFdWq)
+
+## Use the EVE-NG lab
+
+Download the [EVE-NG lab
+project](examples/eve-ng/hybrid-identity-enterprise-lab.zip). The archive
+contains an importable `.unl` topology and its device configurations. Device
+images and vendor software are not included. Users must provide appropriately
+licensed images and map them to the corresponding node templates.
 
 ## Architecture Overview
 
@@ -67,8 +75,6 @@ The infrastructure is deployed in a virtualised lab environment:
 • Infrastructure virtualised on **Proxmox**  
 • Multi-site architecture with simulated failover scenarios  
 
-The [EVE-NG lab export](examples/eve-ng/hybrid-identity-enterprise-lab.zip) provides the reusable topology and device configurations. Device images are not included.
-
 ## Automation and Monitoring
 
 Automation and operational visibility include:
@@ -77,3 +83,9 @@ Automation and operational visibility include:
 • Configuration automation using Ansible  
 • Monitoring using Zabbix  
 • Network analysis using Wireshark  
+
+## Licence
+
+Software is provided under MIT No Attribution. Documentation and examples,
+including the EVE-NG lab topology, are provided under CC BY 4.0. See
+[LICENSE](LICENSE) for the complete terms and third-party boundary.
